@@ -6,6 +6,6 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./interpolation.component.css']
 })
 export class InterpolationComponent {
-  nome:String = "Fabio Mattos de Godoy";
+  nome:String = "teste";
 
 }
